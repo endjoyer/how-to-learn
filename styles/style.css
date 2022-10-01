@@ -187,9 +187,6 @@
   font-size: 24px;
   font-weight: 600;
   line-height: 1.15;
-}
-
-.table__heading{
   margin: 0;
 }
 
@@ -204,8 +201,6 @@
 .table__text:nth-child(even) {
   margin: 20px 0;
 }
-
-
 
 /*-------------------------feynman-------------------------*/
 
@@ -245,7 +240,7 @@
   right: 0;
   font-size: 36px;
   font-weight: normal;
-  line-height: 51px; 
+  line-height: 51px;
   margin-right: 48px;
   text-decoration: none;
   color: #2f80ed;
@@ -341,7 +336,7 @@
   margin: 0;
   font-size: 18px;
   font-weight: 600;
-  line-height: 30px; 
+  line-height: 30px;
   padding-bottom: 20px;
 }
 
@@ -356,7 +351,7 @@
   flex-direction: row;
   font-size: 18px;
   font-weight: normal;
-  line-height: 30px; 
+  line-height: 30px;
   margin: 0;
   text-decoration: none;
   color: #f2f2f2;
