@@ -102,7 +102,7 @@
 
 .two-columns__brief {
   display: flex;
-	flex-direction: column;
+  flex-direction: column;
   width: 175px;
   margin: 0;
   font-size: 18px;
@@ -113,7 +113,7 @@
 
 .two-columns__main-text {
   display: flex;
-	flex-direction: column;
+  flex-direction: column;
   width: 80%;
   font-size: 24px;
   font-weight: normal;
@@ -174,7 +174,7 @@
 
 .table__cell {
   display: flex;
-	flex-direction: column;
+  flex-direction: column;
   width: 250px;
   margin-top: 60px;
 }
