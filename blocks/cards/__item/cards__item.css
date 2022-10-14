@@ -1,0 +1,12 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  max-width: 240px;
+  margin-top: 60px;
+  text-align: center;
+}
+.cards__item:nth-child(2),
+.cards__item:nth-child(3n + 5) {
+  margin-right: 100px;
+  margin-left: 100px;
+}
