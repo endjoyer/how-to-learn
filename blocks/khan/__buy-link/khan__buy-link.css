@@ -3,7 +3,7 @@
   font-size: 30px;
   font-weight: normal;
   margin: 0;
-  margin-left: 20px;
+  margin-left: 48px; /*В брифе написано 48px, но изображено не больше 20px*/
   text-decoration: none;
   color: #2f80ed;
 }
